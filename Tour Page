@@ -6,7 +6,13 @@ Tours Page:
 
  The tour page will offer range of tours in a list.
  Within the tour page there will be the option to filter based on a variety of categories.
- These categories will destination, price, theme length and other accessibility options.
+ These categories will be destination, price, theme, length and other accessibility options.
+ Each tour on the page will have images from the tour
+ As well as a detailed description including all essential information.
+
+Each tour will have a link to the 3rd party website of the company who offer the tour
+This will allow the user to book the tour directly from the provider.
 
 Each tour option will have an area in which users who have purchased the tour can offer feedback and reviews
 This allows the user to see testimonials about the +/- of each tour.
+
