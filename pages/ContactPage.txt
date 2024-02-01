@@ -1,0 +1,15 @@
+Contact Page
+
+- Contains Contact Information such as an email address, a phone number, contact address and links to social media accounts.
+
+- A form which can be filled in to get feedback from customers.
+
+- A for to ask questions about thier planned trip.
+
+- Also contain a section for FAQ's to try and help the user get to the root of their problem before having to contact the company.
+
+- There will also being a map to show the location of the TravelHub HQ.
+
+There will be an option for multi-language support this will allow international users to be able to read and understand how to contact and naviagte the website.
+By doing this it will not only make it more accommodative for international users but it will also make our website more appealing to possible customers globally.
+This will be compeletely down to user preference if they choose to select a different language.

@@ -1,0 +1,19 @@
+About Us Page
+
+- Add some background information on TravelHub (When created, who created, why created)
+
+- Outline the Aim of TravelHub and information on why to choose us.
+
+- Information on TravelHub's ideas and vision for the future.
+
+- Some information on the team members (They can give a bit of information about themselves and why TravelHub is great).
+
+- Display some glowing customer reviews from previous customers. 
+
+- Display certifications and partnerships with travel companies such as airlines and hotel chains.
+
+To go alongside the users reviews we will also have a section where customers can submit travel stories.
+Here they can talk about their experience with TravelHub and our customer service.
+On top of this they will be able to add photos and videos to showcase their trip.
+Finally there will be a star rating system that allows the customer to rate their trip and give a comment on their decision. For example if they recommend it.
+Adding this will allow us to show a community of people who have enjoyed holidays through TravelHub. 
