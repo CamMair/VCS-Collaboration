@@ -1,4 +1,18 @@
 Destination Page:
-- A selection of popular travel destinations with images and descriptions
-  - Detailed information about each destination, including key attractions and activities
-  - Links to related blog posts and recommended tour package
+Main features:
+1 - A selection of popular travel destinations with images and descriptions
+2 - Detailed information about each destination, including key attractions and activities
+3 - Links to related blog posts and recommended tour package
+
+
+- Users will have the ability to filter and sort by destination
+- filters may include: continent, weather, food, distance etc
+- users can choose to remove destinations they have already visited from list
+- users can fill in options to provide info and narrow down search or can randomise
+- once users have decided the type of destination they can review that destination
+- review of destination will include a detailed description and photographs that showcase the destination
+- once users have decided a destination they like they can click on it and and provided with links to visit other page
+- other pages will be the blog page that will provide detailed reviews of the destinations from travel agents and previous visitors
+- other page will be the tour page that will show users the attractions and activities they can book at their desired location
+- users can also favourite destinations or add them to a list so they can come back to review and decide later if needed
+- users can also sign up to receive the latest travel information about their chosen destinations
