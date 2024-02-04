@@ -1,0 +1,11 @@
+2. Booking Management:
+  - Implement a booking system that allows users to check availability, make reservations, and receive confirmation emails
+  - Integrate payment gateway for secure online transactions
+
+- Once users decide on a destination they would like to travel to and have explored relevant options they can book
+- Booking options can include: flights, accommodation, transport, attractions, tours etc
+- Booking functionality will allow users to book around specific dates and personal requirements
+- Booking functionality will automatically filter and sort based on user searches for all available and relevant packages
+- Booking functionality will provide a process for payments to allow users to pay all fees upfront and pay deposits if necessary
+- Once booked and payed users will be able to enter their contact details to receive further information about their holiday
+- Booking functionality will issue users with all details such as flight tickets, accommodation info, travel pick up etc
